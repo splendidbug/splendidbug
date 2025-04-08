@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p>I'm Shreyas Agrawal!</p>
-<h2>Things I code with</h2>
+<h3>I'm Shreyas Agrawal!</h3>
+<h3>Things I Code With</h3>
 <h4>Languages:</h4>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -40,6 +40,14 @@
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
-<a href="https://github.com/splendidbug/Pull-n-Plot" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1Wyyfec8xcqbAMlv1KvDRpVFvkeyeu9lK" alt="Image" style="width:40%;">
+<h3>Some Cool Repos:</h3>
+<a href="https://github.com/JuliaGenAI/DocsScraper.jl" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=19CzrwEl59mkXn4JpYv1kX2BpceRY_U6Z" alt="Image" style="width:40%;">
 </a>
+<a href="https://github.com/splendidbug/Pull-n-Plot" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=1vgKXHQ16SlTkLJLNQMTPBbJGVB7oxikv" alt="Image" style="width:40%;">
+</a>
+<a href="https://github.com/splendidbug/Pull-n-Plot" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=17kO21GJsj8N8oaZda8dYba6U7xgLCujc" alt="Image" style="width:40%;">
+</a>
+
