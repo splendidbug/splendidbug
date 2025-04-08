@@ -47,7 +47,7 @@
 <a href="https://github.com/splendidbug/Pull-n-Plot" target="_blank">
   <img src="https://drive.google.com/uc?export=view&id=1vgKXHQ16SlTkLJLNQMTPBbJGVB7oxikv" alt="Image" style="width:40%;">
 </a>
-<a href="https://github.com/splendidbug/Pull-n-Plot" target="_blank">
+<a href="https://github.com/splendidbug/RCNN-Object-Detection" target="_blank">
   <img src="https://drive.google.com/uc?export=view&id=17kO21GJsj8N8oaZda8dYba6U7xgLCujc" alt="Image" style="width:40%;">
 </a>
 
