@@ -41,15 +41,16 @@
   <img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 <h3>Some Cool Repos:</h3>
-<a href="https://github.com/JuliaGenAI/DocsScraper.jl" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=19CzrwEl59mkXn4JpYv1kX2BpceRY_U6Z" alt="Image" style="width:40%;">
-</a>
-<a href="https://github.com/splendidbug/Pull-n-Plot" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1vgKXHQ16SlTkLJLNQMTPBbJGVB7oxikv" alt="Image" style="width:40%;">
-</a>
-<a href="https://github.com/splendidbug/RCNN-Object-Detection" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=17kO21GJsj8N8oaZda8dYba6U7xgLCujc" alt="Image" style="width:40%;">
-</a>
-<img src="https://gh-readme-tracker.vercel.app/api/tracker?test=12345" width="1" height="1" alt="" />
 
+<a href="https://gh-readme-tracker.vercel.app/api/track-click?id=docscraper" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=19CzrwEl59mkXn4JpYv1kX2BpceRY_U6Z" alt="DocsScraper" style="width:40%;">
+</a>
+
+<a href="https://gh-readme-tracker.vercel.app/api/track-click?id=pullnplot" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=1vgKXHQ16SlTkLJLNQMTPBbJGVB7oxikv" alt="Pull-n-Plot" style="width:40%;">
+</a>
+
+<a href="https://gh-readme-tracker.vercel.app/api/track-click?id=rcnn" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=17kO21GJsj8N8oaZda8dYba6U7xgLCujc" alt="RCNN" style="width:40%;">
+</a>
 
